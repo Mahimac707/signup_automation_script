@@ -21,23 +21,8 @@ This project is a **Cypress-based automated testing suite** for a web applicatio
 - OS: Window 
 
 ## Project Structure
-QA_TASK/
-├── cypress/
-│ ├── e2e/
-│ │ ├── logintest.cy.js # Login functionality test
-│ │ ├── signup.cy.js # Initial signup & terms acceptance
-│ │ ├── signup1.cy.js # Account setup & OTP verification
-│ │ └── signup2.cy.js # Complete profile (Agency, Experience, Preferences)
-│ ├── fixtures/ 
-│ ├── screenshots/ 
-│ └── support/
-│ ├── commands.js # Custom Cypress commands
-│ └── e2e.js # Support file configurations
-├── node_modules/ # Project dependencies
-├── cypress.config.js # Cypress configuration
-├── package.json # Project dependencies and scripts
-├── package-lock.json # Locked dependency versions
-└── README.md # Project documentation
+<img width="775" height="508" alt="image" src="https://github.com/user-attachments/assets/13f971b1-7605-4002-acfe-4098da5b93fd" />
+
 
 ## Tested Features
 ### Login Flow
